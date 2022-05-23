@@ -1,0 +1,35 @@
+_repo: With-the-pilgrims-to-Mecca-The-great-pilgrimage-of-AH-1319-AD-1902_68124
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Vambéry, A.
+    gutenberg_agent_id: '54618'
+    url: http://www.gutenberg.org/2009/agents/54618
+creator:
+  authors:
+  - agent_name: Khan, Hadji
+    gutenberg_agent_id: '54616'
+    url: http://www.gutenberg.org/2009/agents/54616
+  - agent_name: Sparroy, Wilfrid
+    gutenberg_agent_id: '54617'
+    url: http://www.gutenberg.org/2009/agents/54617
+description: ''
+gutenberg_issued: '2022-05-19'
+identifiers:
+  gutenberg: '68124'
+language: en
+pgterms:marc904: https://archive.org/details/withpilgrimstome00khan
+pgterms:marc905: 20190409051716khan
+pgterms:marc906: '1905'
+pgterms:marc907: UK
+production_note: Turgut Dincer, Thomas Frost and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: UK :John Lane,1905.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'With the pilgrims to Mecca: The great pilgrimage of A.H. 1319; A.D. 1902'
+url: http://www.gutenberg.org/ebooks/68124
