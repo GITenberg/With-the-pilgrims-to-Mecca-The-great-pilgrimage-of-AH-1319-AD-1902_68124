@@ -5,6 +5,9 @@ contributor:
     agent_name: Vambéry, A.
     gutenberg_agent_id: '54618'
     url: http://www.gutenberg.org/2009/agents/54618
+covers:
+- cover_type: archival
+  image_path: 68124-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Khan, Hadji
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '54617'
     url: http://www.gutenberg.org/2009/agents/54617
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68124#With-the-pilgrims-to-Mecca-The-great-pilgrimage-of-AH-1319-AD-1902
 gutenberg_issued: '2022-05-19'
 identifiers:
   gutenberg: '68124'
